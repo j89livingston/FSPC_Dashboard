@@ -12,3 +12,5 @@ Florida Suicide Count and Rate - https://www.flhealthcharts.gov/Charts/Default.a
 Florida Census - http://edr.state.fl.us/content/population-demographics/data/index-floridaproducts.cfm
 
 2-1-1 Counts - https://fl.211counts.org/
+
+Centers for Disease Control and Prevention - https://wisqars.cdc.gov/map/mapModuleInterface.jsp
