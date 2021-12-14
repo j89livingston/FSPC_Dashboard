@@ -13,4 +13,4 @@ Florida Census - http://edr.state.fl.us/content/population-demographics/data/ind
 
 2-1-1 Counts - https://fl.211counts.org/
 
-Centers for Disease Control and Prevention - https://wisqars.cdc.gov/map/mapModuleInterface.jsp
+Centers for Disease Control and Prevention - https://wisqars.cdc.gov/map/mapModuleInterface.jsp and https://www.cdc.gov/healthyyouth/data/yrbs/data.htm
