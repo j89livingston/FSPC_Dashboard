@@ -1,6 +1,6 @@
 # FSPC_Dashboard
 
-Tableau - https://public.tableau.com/app/profile/justin.livingston/viz/FSPCDashboard/FloridaSuicide2011-2020?publish=yes
+Tableau - https://public.tableau.com/app/profile/justin.livingston/viz/FSPCWorkbook/FloridaSuicidebyCounty2011-2020
 
 Google slides - https://docs.google.com/presentation/d/1kJ9BCC4LZloabozyE2AAeBoIWeOnyTyM1CW-Lh3o05c/edit?usp=sharing
 
