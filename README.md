@@ -2,7 +2,7 @@
 
 Tableau - https://public.tableau.com/app/profile/justin.livingston/viz/FSPCWorkbook/FloridaSuicidebyCounty2011-2020
 
-Tableau Sofia- https://public.tableau.com/app/profile/sindie.castro/viz/FSPCDashboard_16408754673330/SuicideRatebyFirearmperyear
+Tableau Sofia (1/1/2022)- https://public.tableau.com/app/profile/sindie.castro/viz/FSPCWorkbook_16410653384460/SuicidebyDrugPoisining2011-2020
 
 Google slides - https://docs.google.com/presentation/d/1kJ9BCC4LZloabozyE2AAeBoIWeOnyTyM1CW-Lh3o05c/edit?usp=sharing
 
