@@ -1,3 +1,7 @@
+<p align="center">
+<img src= "https://floridasuicideprevention.org/wp-content/uploads/2015/06/walk-pic1-1024x419.jpg" width=200% height=50%>
+
+
 # FSPC_Dashboard
 ## Overview of Project
 
