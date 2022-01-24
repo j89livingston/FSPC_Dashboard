@@ -1,0 +1,511 @@
+Cause of Death,Years,Death Count
+Acute Bronchitis & Bronchiolitis (J20-J21),2011,15
+Alzheimers Disease (G30),2011,"4,470"
+Anemias (D50-D64),2011,345
+Aortic Aneurysm & Dissection (I71),2011,683
+Appendix Diseases (K35-K38),2011,17
+"Arthopod-Borne Viral Encephalitis (A83-A84,A85.2)",2011,0
+Atherosclerosis (I70),2011,619
+Cerebrovascular Diseases (I60-I69),2011,"8,327"
+Cholelithiasis & Other Gallbladder Disorders (K80-K82),2011,181
+"Chronic Liver Disease & Cirrhosis (K70,K73-K74)",2011,"2,572"
+"Chronic Lower Respiratory Disease (J40-J42,J43,J44,J45-J46,J47)",2011,"10,241"
+Congenital Malformations,2011,500
+COVID-19 (U07.1),2011,0
+Diabetes Mellitus (E10-E14),2011,"5,044"
+Enterocolitis due to Clostridium difficile (A04.7),2011,528
+"Essen Hypertension & Hypertensive Renal Dis (I10,I12,I15)",2011,"1,798"
+Female Pelvic Organs-Inflammatory Diseases (N70-N76),2011,11
+Heart Diseases,2011,"40,522"
+Hernia (K40-K46),2011,106
+Homicide,2011,"1,124"
+Human Immunodeficiency Virus (HIV) Disease (B20-B24),2011,"1,005"
+Hyperplasia of Prostate (N40),2011,23
+"In Situ, Benign, Uncertain and Unknown Behavior Neoplasms (D00-D48)",2011,"1,182"
+"Influenza & Pneumonia (J09-J11,J12-J18)",2011,"2,418"
+"Kidney Infections (N10-N12, N13.6, N15.1)",2011,28
+"Legal Intervention (Y35, Y89.0)",2011,9
+Malaria (B50-B54),2011,0
+Malignant Neoplasm (Cancer),2011,"41,221"
+Measles (B05),2011,0
+"Medical & Surgical Care Complications (Y40-Y84,Y88)",2011,122
+"Meningitis (G00,G03)",2011,39
+Meningococcal Infection (A39),2011,7
+"Nephritis, Nephrotic Syndrome, Nephrosis (N00-N07,N17-N19,N25-N27)",2011,"3,041"
+Nutritional Deficiencies (E40-E64),2011,113
+Other Causes of Death,2011,"29,096"
+Parkinsons Disease (G20-G21),2011,"1,747"
+Peptic Ulcer (K25-K28),2011,162
+Perinatal Period Conditions (P00-P96),2011,727
+"Pneumoconiosis & Chemical Effects (J60-J66,J68)",2011,44
+Pneumonitis Due To Solids & Liquids (J69),2011,898
+"Pregnancy, Childbirth and the Puerperium (O00-O99)",2011,48
+Salmonella Infections (A01-A02),2011,3
+Septicemia (A40-A41),2011,"1,936"
+"Shigellosis & Amebiasis (A03,A06)",2011,0
+Suicide,2011,"2,765"
+Syphilis (A50-A53),2011,5
+Tuberculosis (A16-A19),2011,31
+Unintentional Injury,2011,"8,475"
+Viral Hepatitis (B15-B19),2011,606
+"War Operations & Sequelae (Y36,Y89.1)",2011,1
+Whooping Cough (A37),2011,1
+Acute Bronchitis & Bronchiolitis (J20-J21),2012,6
+Alzheimers Disease (G30),2012,"4,379"
+Anemias (D50-D64),2012,338
+Aortic Aneurysm & Dissection (I71),2012,652
+Appendix Diseases (K35-K38),2012,20
+"Arthopod-Borne Viral Encephalitis (A83-A84,A85.2)",2012,0
+Atherosclerosis (I70),2012,541
+Cerebrovascular Diseases (I60-I69),2012,"8,372"
+Cholelithiasis & Other Gallbladder Disorders (K80-K82),2012,208
+"Chronic Liver Disease & Cirrhosis (K70,K73-K74)",2012,"2,574"
+"Chronic Lower Respiratory Disease (J40-J42,J43,J44,J45-J46,J47)",2012,"10,525"
+Congenital Malformations,2012,509
+COVID-19 (U07.1),2012,0
+Diabetes Mellitus (E10-E14),2012,"5,064"
+Enterocolitis due to Clostridium difficile (A04.7),2012,499
+"Essen Hypertension & Hypertensive Renal Dis (I10,I12,I15)",2012,"1,944"
+Female Pelvic Organs-Inflammatory Diseases (N70-N76),2012,6
+Heart Diseases,2012,"41,643"
+Hernia (K40-K46),2012,117
+Homicide,2012,"1,195"
+Human Immunodeficiency Virus (HIV) Disease (B20-B24),2012,923
+Hyperplasia of Prostate (N40),2012,28
+"In Situ, Benign, Uncertain and Unknown Behavior Neoplasms (D00-D48)",2012,"1,117"
+"Influenza & Pneumonia (J09-J11,J12-J18)",2012,"2,304"
+"Kidney Infections (N10-N12, N13.6, N15.1)",2012,17
+"Legal Intervention (Y35, Y89.0)",2012,12
+Malaria (B50-B54),2012,0
+Malignant Neoplasm (Cancer),2012,"41,696"
+Measles (B05),2012,0
+"Medical & Surgical Care Complications (Y40-Y84,Y88)",2012,159
+"Meningitis (G00,G03)",2012,25
+Meningococcal Infection (A39),2012,5
+"Nephritis, Nephrotic Syndrome, Nephrosis (N00-N07,N17-N19,N25-N27)",2012,"2,898"
+Nutritional Deficiencies (E40-E64),2012,118
+Other Causes of Death,2012,"30,129"
+Parkinsons Disease (G20-G21),2012,"1,824"
+Peptic Ulcer (K25-K28),2012,168
+Perinatal Period Conditions (P00-P96),2012,648
+"Pneumoconiosis & Chemical Effects (J60-J66,J68)",2012,27
+Pneumonitis Due To Solids & Liquids (J69),2012,"1,002"
+"Pregnancy, Childbirth and the Puerperium (O00-O99)",2012,61
+Salmonella Infections (A01-A02),2012,3
+Septicemia (A40-A41),2012,"2,037"
+"Shigellosis & Amebiasis (A03,A06)",2012,0
+Suicide,2012,"2,922"
+Syphilis (A50-A53),2012,4
+Tuberculosis (A16-A19),2012,44
+Unintentional Injury,2012,"8,561"
+Viral Hepatitis (B15-B19),2012,523
+"War Operations & Sequelae (Y36,Y89.1)",2012,1
+Whooping Cough (A37),2012,1
+Acute Bronchitis & Bronchiolitis (J20-J21),2013,12
+Alzheimers Disease (G30),2013,"5,064"
+Anemias (D50-D64),2013,314
+Aortic Aneurysm & Dissection (I71),2013,680
+Appendix Diseases (K35-K38),2013,22
+"Arthopod-Borne Viral Encephalitis (A83-A84,A85.2)",2013,0
+Atherosclerosis (I70),2013,599
+Cerebrovascular Diseases (I60-I69),2013,"8,611"
+Cholelithiasis & Other Gallbladder Disorders (K80-K82),2013,183
+"Chronic Liver Disease & Cirrhosis (K70,K73-K74)",2013,"2,656"
+"Chronic Lower Respiratory Disease (J40-J42,J43,J44,J45-J46,J47)",2013,"11,328"
+Congenital Malformations,2013,503
+COVID-19 (U07.1),2013,0
+Diabetes Mellitus (E10-E14),2013,"5,209"
+Enterocolitis due to Clostridium difficile (A04.7),2013,510
+"Essen Hypertension & Hypertensive Renal Dis (I10,I12,I15)",2013,"2,140"
+Female Pelvic Organs-Inflammatory Diseases (N70-N76),2013,5
+Heart Diseases,2013,"42,249"
+Hernia (K40-K46),2013,121
+Homicide,2013,"1,143"
+Human Immunodeficiency Virus (HIV) Disease (B20-B24),2013,935
+Hyperplasia of Prostate (N40),2013,35
+"In Situ, Benign, Uncertain and Unknown Behavior Neoplasms (D00-D48)",2013,"1,145"
+"Influenza & Pneumonia (J09-J11,J12-J18)",2013,"2,644"
+"Kidney Infections (N10-N12, N13.6, N15.1)",2013,22
+"Legal Intervention (Y35, Y89.0)",2013,34
+Malaria (B50-B54),2013,1
+Malignant Neoplasm (Cancer),2013,"42,350"
+Measles (B05),2013,0
+"Medical & Surgical Care Complications (Y40-Y84,Y88)",2013,195
+"Meningitis (G00,G03)",2013,21
+Meningococcal Infection (A39),2013,8
+"Nephritis, Nephrotic Syndrome, Nephrosis (N00-N07,N17-N19,N25-N27)",2013,"3,106"
+Nutritional Deficiencies (E40-E64),2013,133
+Other Causes of Death,2013,"29,985"
+Parkinsons Disease (G20-G21),2013,"1,932"
+Peptic Ulcer (K25-K28),2013,174
+Perinatal Period Conditions (P00-P96),2013,681
+"Pneumoconiosis & Chemical Effects (J60-J66,J68)",2013,40
+Pneumonitis Due To Solids & Liquids (J69),2013,"1,007"
+"Pregnancy, Childbirth and the Puerperium (O00-O99)",2013,76
+Salmonella Infections (A01-A02),2013,2
+Septicemia (A40-A41),2013,"2,084"
+"Shigellosis & Amebiasis (A03,A06)",2013,0
+Suicide,2013,"2,892"
+Syphilis (A50-A53),2013,4
+Tuberculosis (A16-A19),2013,34
+Unintentional Injury,2013,"8,534"
+Viral Hepatitis (B15-B19),2013,587
+"War Operations & Sequelae (Y36,Y89.1)",2013,3
+Whooping Cough (A37),2013,1
+Acute Bronchitis & Bronchiolitis (J20-J21),2014,10
+Alzheimers Disease (G30),2014,"5,814"
+Anemias (D50-D64),2014,355
+Aortic Aneurysm & Dissection (I71),2014,643
+Appendix Diseases (K35-K38),2014,26
+"Arthopod-Borne Viral Encephalitis (A83-A84,A85.2)",2014,0
+Atherosclerosis (I70),2014,609
+Cerebrovascular Diseases (I60-I69),2014,"9,605"
+Cholelithiasis & Other Gallbladder Disorders (K80-K82),2014,201
+"Chronic Liver Disease & Cirrhosis (K70,K73-K74)",2014,"2,996"
+"Chronic Lower Respiratory Disease (J40-J42,J43,J44,J45-J46,J47)",2014,"11,089"
+Congenital Malformations,2014,528
+COVID-19 (U07.1),2014,0
+Diabetes Mellitus (E10-E14),2014,"5,324"
+Enterocolitis due to Clostridium difficile (A04.7),2014,506
+"Essen Hypertension & Hypertensive Renal Dis (I10,I12,I15)",2014,"2,174"
+Female Pelvic Organs-Inflammatory Diseases (N70-N76),2014,8
+Heart Diseases,2014,"43,747"
+Hernia (K40-K46),2014,128
+Homicide,2014,"1,139"
+Human Immunodeficiency Virus (HIV) Disease (B20-B24),2014,878
+Hyperplasia of Prostate (N40),2014,29
+"In Situ, Benign, Uncertain and Unknown Behavior Neoplasms (D00-D48)",2014,"1,391"
+"Influenza & Pneumonia (J09-J11,J12-J18)",2014,"2,663"
+"Kidney Infections (N10-N12, N13.6, N15.1)",2014,28
+"Legal Intervention (Y35, Y89.0)",2014,33
+Malaria (B50-B54),2014,1
+Malignant Neoplasm (Cancer),2014,"42,330"
+Measles (B05),2014,0
+"Medical & Surgical Care Complications (Y40-Y84,Y88)",2014,174
+"Meningitis (G00,G03)",2014,25
+Meningococcal Infection (A39),2014,7
+"Nephritis, Nephrotic Syndrome, Nephrosis (N00-N07,N17-N19,N25-N27)",2014,"3,026"
+Nutritional Deficiencies (E40-E64),2014,187
+Other Causes of Death,2014,"30,535"
+Parkinsons Disease (G20-G21),2014,"2,031"
+Peptic Ulcer (K25-K28),2014,182
+Perinatal Period Conditions (P00-P96),2014,682
+"Pneumoconiosis & Chemical Effects (J60-J66,J68)",2014,26
+Pneumonitis Due To Solids & Liquids (J69),2014,980
+"Pregnancy, Childbirth and the Puerperium (O00-O99)",2014,61
+Salmonella Infections (A01-A02),2014,6
+Septicemia (A40-A41),2014,"2,145"
+"Shigellosis & Amebiasis (A03,A06)",2014,0
+Suicide,2014,"2,961"
+Syphilis (A50-A53),2014,1
+Tuberculosis (A16-A19),2014,22
+Unintentional Injury,2014,"9,128"
+Viral Hepatitis (B15-B19),2014,603
+"War Operations & Sequelae (Y36,Y89.1)",2014,1
+Whooping Cough (A37),2014,0
+Acute Bronchitis & Bronchiolitis (J20-J21),2015,14
+Alzheimers Disease (G30),2015,"7,021"
+Anemias (D50-D64),2015,355
+Aortic Aneurysm & Dissection (I71),2015,686
+Appendix Diseases (K35-K38),2015,37
+"Arthopod-Borne Viral Encephalitis (A83-A84,A85.2)",2015,0
+Atherosclerosis (I70),2015,485
+Cerebrovascular Diseases (I60-I69),2015,"11,410"
+Cholelithiasis & Other Gallbladder Disorders (K80-K82),2015,208
+"Chronic Liver Disease & Cirrhosis (K70,K73-K74)",2015,"3,075"
+"Chronic Lower Respiratory Disease (J40-J42,J43,J44,J45-J46,J47)",2015,"11,685"
+Congenital Malformations,2015,526
+COVID-19 (U07.1),2015,0
+Diabetes Mellitus (E10-E14),2015,"5,394"
+Enterocolitis due to Clostridium difficile (A04.7),2015,509
+"Essen Hypertension & Hypertensive Renal Dis (I10,I12,I15)",2015,"2,185"
+Female Pelvic Organs-Inflammatory Diseases (N70-N76),2015,5
+Heart Diseases,2015,"45,199"
+Hernia (K40-K46),2015,122
+Homicide,2015,"1,185"
+Human Immunodeficiency Virus (HIV) Disease (B20-B24),2015,873
+Hyperplasia of Prostate (N40),2015,20
+"In Situ, Benign, Uncertain and Unknown Behavior Neoplasms (D00-D48)",2015,"1,470"
+"Influenza & Pneumonia (J09-J11,J12-J18)",2015,"2,666"
+"Kidney Infections (N10-N12, N13.6, N15.1)",2015,28
+"Legal Intervention (Y35, Y89.0)",2015,19
+Malaria (B50-B54),2015,0
+Malignant Neoplasm (Cancer),2015,"43,877"
+Measles (B05),2015,0
+"Medical & Surgical Care Complications (Y40-Y84,Y88)",2015,200
+"Meningitis (G00,G03)",2015,28
+Meningococcal Infection (A39),2015,5
+"Nephritis, Nephrotic Syndrome, Nephrosis (N00-N07,N17-N19,N25-N27)",2015,"3,194"
+Nutritional Deficiencies (E40-E64),2015,316
+Other Causes of Death,2015,"27,961"
+Parkinsons Disease (G20-G21),2015,"2,226"
+Peptic Ulcer (K25-K28),2015,178
+Perinatal Period Conditions (P00-P96),2015,760
+"Pneumoconiosis & Chemical Effects (J60-J66,J68)",2015,42
+Pneumonitis Due To Solids & Liquids (J69),2015,"1,022"
+"Pregnancy, Childbirth and the Puerperium (O00-O99)",2015,67
+Salmonella Infections (A01-A02),2015,1
+Septicemia (A40-A41),2015,"2,361"
+"Shigellosis & Amebiasis (A03,A06)",2015,1
+Suicide,2015,"3,152"
+Syphilis (A50-A53),2015,3
+Tuberculosis (A16-A19),2015,23
+Unintentional Injury,2015,"10,346"
+Viral Hepatitis (B15-B19),2015,548
+"War Operations & Sequelae (Y36,Y89.1)",2015,0
+Whooping Cough (A37),2015,0
+Acute Bronchitis & Bronchiolitis (J20-J21),2016,16
+Alzheimers Disease (G30),2016,"7,152"
+Anemias (D50-D64),2016,384
+Aortic Aneurysm & Dissection (I71),2016,678
+Appendix Diseases (K35-K38),2016,28
+"Arthopod-Borne Viral Encephalitis (A83-A84,A85.2)",2016,0
+Atherosclerosis (I70),2016,476
+Cerebrovascular Diseases (I60-I69),2016,"11,843"
+Cholelithiasis & Other Gallbladder Disorders (K80-K82),2016,236
+"Chronic Liver Disease & Cirrhosis (K70,K73-K74)",2016,"3,225"
+"Chronic Lower Respiratory Disease (J40-J42,J43,J44,J45-J46,J47)",2016,"11,964"
+Congenital Malformations,2016,572
+COVID-19 (U07.1),2016,0
+Diabetes Mellitus (E10-E14),2016,"5,780"
+Enterocolitis due to Clostridium difficile (A04.7),2016,455
+"Essen Hypertension & Hypertensive Renal Dis (I10,I12,I15)",2016,"2,454"
+Female Pelvic Organs-Inflammatory Diseases (N70-N76),2016,5
+Heart Diseases,2016,"45,625"
+Hernia (K40-K46),2016,131
+Homicide,2016,"1,292"
+Human Immunodeficiency Virus (HIV) Disease (B20-B24),2016,864
+Hyperplasia of Prostate (N40),2016,29
+"In Situ, Benign, Uncertain and Unknown Behavior Neoplasms (D00-D48)",2016,"1,334"
+"Influenza & Pneumonia (J09-J11,J12-J18)",2016,"2,807"
+"Kidney Infections (N10-N12, N13.6, N15.1)",2016,29
+"Legal Intervention (Y35, Y89.0)",2016,17
+Malaria (B50-B54),2016,2
+Malignant Neoplasm (Cancer),2016,"44,237"
+Measles (B05),2016,0
+"Medical & Surgical Care Complications (Y40-Y84,Y88)",2016,217
+"Meningitis (G00,G03)",2016,19
+Meningococcal Infection (A39),2016,1
+"Nephritis, Nephrotic Syndrome, Nephrosis (N00-N07,N17-N19,N25-N27)",2016,"3,146"
+Nutritional Deficiencies (E40-E64),2016,335
+Other Causes of Death,2016,"28,688"
+Parkinsons Disease (G20-G21),2016,"2,372"
+Peptic Ulcer (K25-K28),2016,200
+Perinatal Period Conditions (P00-P96),2016,726
+"Pneumoconiosis & Chemical Effects (J60-J66,J68)",2016,45
+Pneumonitis Due To Solids & Liquids (J69),2016,"1,163"
+"Pregnancy, Childbirth and the Puerperium (O00-O99)",2016,50
+Salmonella Infections (A01-A02),2016,4
+Septicemia (A40-A41),2016,"2,465"
+"Shigellosis & Amebiasis (A03,A06)",2016,0
+Suicide,2016,"3,122"
+Syphilis (A50-A53),2016,3
+Tuberculosis (A16-A19),2016,36
+Unintentional Injury,2016,"12,522"
+Viral Hepatitis (B15-B19),2016,485
+"War Operations & Sequelae (Y36,Y89.1)",2016,2
+Whooping Cough (A37),2016,0
+Acute Bronchitis & Bronchiolitis (J20-J21),2017,9
+Alzheimers Disease (G30),2017,"6,956"
+Anemias (D50-D64),2017,398
+Aortic Aneurysm & Dissection (I71),2017,656
+Appendix Diseases (K35-K38),2017,23
+"Arthopod-Borne Viral Encephalitis (A83-A84,A85.2)",2017,0
+Atherosclerosis (I70),2017,470
+Cerebrovascular Diseases (I60-I69),2017,"12,557"
+Cholelithiasis & Other Gallbladder Disorders (K80-K82),2017,221
+"Chronic Liver Disease & Cirrhosis (K70,K73-K74)",2017,"3,080"
+"Chronic Lower Respiratory Disease (J40-J42,J43,J44,J45-J46,J47)",2017,"12,590"
+Congenital Malformations,2017,551
+COVID-19 (U07.1),2017,0
+Diabetes Mellitus (E10-E14),2017,"6,151"
+Enterocolitis due to Clostridium difficile (A04.7),2017,425
+"Essen Hypertension & Hypertensive Renal Dis (I10,I12,I15)",2017,"2,618"
+Female Pelvic Organs-Inflammatory Diseases (N70-N76),2017,8
+Heart Diseases,2017,"46,159"
+Hernia (K40-K46),2017,130
+Homicide,2017,"1,250"
+Human Immunodeficiency Virus (HIV) Disease (B20-B24),2017,749
+Hyperplasia of Prostate (N40),2017,36
+"In Situ, Benign, Uncertain and Unknown Behavior Neoplasms (D00-D48)",2017,"1,291"
+"Influenza & Pneumonia (J09-J11,J12-J18)",2017,"3,040"
+"Kidney Infections (N10-N12, N13.6, N15.1)",2017,36
+"Legal Intervention (Y35, Y89.0)",2017,23
+Malaria (B50-B54),2017,2
+Malignant Neoplasm (Cancer),2017,"44,862"
+Measles (B05),2017,1
+"Medical & Surgical Care Complications (Y40-Y84,Y88)",2017,357
+"Meningitis (G00,G03)",2017,23
+Meningococcal Infection (A39),2017,3
+"Nephritis, Nephrotic Syndrome, Nephrosis (N00-N07,N17-N19,N25-N27)",2017,"3,157"
+Nutritional Deficiencies (E40-E64),2017,471
+Other Causes of Death,2017,"31,401"
+Parkinsons Disease (G20-G21),2017,"2,565"
+Peptic Ulcer (K25-K28),2017,212
+Perinatal Period Conditions (P00-P96),2017,676
+"Pneumoconiosis & Chemical Effects (J60-J66,J68)",2017,39
+Pneumonitis Due To Solids & Liquids (J69),2017,"1,152"
+"Pregnancy, Childbirth and the Puerperium (O00-O99)",2017,49
+Salmonella Infections (A01-A02),2017,3
+Septicemia (A40-A41),2017,"2,462"
+"Shigellosis & Amebiasis (A03,A06)",2017,1
+Suicide,2017,"3,187"
+Syphilis (A50-A53),2017,7
+Tuberculosis (A16-A19),2017,33
+Unintentional Injury,2017,"12,812"
+Viral Hepatitis (B15-B19),2017,451
+"War Operations & Sequelae (Y36,Y89.1)",2017,0
+Whooping Cough (A37),2017,0
+Acute Bronchitis & Bronchiolitis (J20-J21),2018,9
+Alzheimers Disease (G30),2018,"6,711"
+Anemias (D50-D64),2018,370
+Aortic Aneurysm & Dissection (I71),2018,705
+Appendix Diseases (K35-K38),2018,27
+"Arthopod-Borne Viral Encephalitis (A83-A84,A85.2)",2018,0
+Atherosclerosis (I70),2018,358
+Cerebrovascular Diseases (I60-I69),2018,"13,238"
+Cholelithiasis & Other Gallbladder Disorders (K80-K82),2018,226
+"Chronic Liver Disease & Cirrhosis (K70,K73-K74)",2018,"3,342"
+"Chronic Lower Respiratory Disease (J40-J42,J43,J44,J45-J46,J47)",2018,"12,346"
+Congenital Malformations,2018,561
+COVID-19 (U07.1),2018,0
+Diabetes Mellitus (E10-E14),2018,"6,195"
+Enterocolitis due to Clostridium difficile (A04.7),2018,409
+"Essen Hypertension & Hypertensive Renal Dis (I10,I12,I15)",2018,"2,773"
+Female Pelvic Organs-Inflammatory Diseases (N70-N76),2018,9
+Heart Diseases,2018,"46,929"
+Hernia (K40-K46),2018,139
+Homicide,2018,"1,311"
+Human Immunodeficiency Virus (HIV) Disease (B20-B24),2018,692
+Hyperplasia of Prostate (N40),2018,22
+"In Situ, Benign, Uncertain and Unknown Behavior Neoplasms (D00-D48)",2018,"1,284"
+"Influenza & Pneumonia (J09-J11,J12-J18)",2018,"3,082"
+"Kidney Infections (N10-N12, N13.6, N15.1)",2018,33
+"Legal Intervention (Y35, Y89.0)",2018,28
+Malaria (B50-B54),2018,0
+Malignant Neoplasm (Cancer),2018,"45,199"
+Measles (B05),2018,0
+"Medical & Surgical Care Complications (Y40-Y84,Y88)",2018,365
+"Meningitis (G00,G03)",2018,39
+Meningococcal Infection (A39),2018,2
+"Nephritis, Nephrotic Syndrome, Nephrosis (N00-N07,N17-N19,N25-N27)",2018,"3,125"
+Nutritional Deficiencies (E40-E64),2018,600
+Other Causes of Death,2018,"31,558"
+Parkinsons Disease (G20-G21),2018,"2,688"
+Peptic Ulcer (K25-K28),2018,216
+Perinatal Period Conditions (P00-P96),2018,701
+"Pneumoconiosis & Chemical Effects (J60-J66,J68)",2018,29
+Pneumonitis Due To Solids & Liquids (J69),2018,"1,092"
+"Pregnancy, Childbirth and the Puerperium (O00-O99)",2018,58
+Salmonella Infections (A01-A02),2018,2
+Septicemia (A40-A41),2018,"2,465"
+"Shigellosis & Amebiasis (A03,A06)",2018,0
+Suicide,2018,"3,552"
+Syphilis (A50-A53),2018,3
+Tuberculosis (A16-A19),2018,38
+Unintentional Injury,2018,"12,616"
+Viral Hepatitis (B15-B19),2018,311
+"War Operations & Sequelae (Y36,Y89.1)",2018,2
+Whooping Cough (A37),2018,1
+Acute Bronchitis & Bronchiolitis (J20-J21),2019,14
+Alzheimers Disease (G30),2019,"6,531"
+Anemias (D50-D64),2019,415
+Aortic Aneurysm & Dissection (I71),2019,670
+Appendix Diseases (K35-K38),2019,28
+"Arthopod-Borne Viral Encephalitis (A83-A84,A85.2)",2019,0
+Atherosclerosis (I70),2019,385
+Cerebrovascular Diseases (I60-I69),2019,"13,868"
+Cholelithiasis & Other Gallbladder Disorders (K80-K82),2019,206
+"Chronic Liver Disease & Cirrhosis (K70,K73-K74)",2019,"3,186"
+"Chronic Lower Respiratory Disease (J40-J42,J43,J44,J45-J46,J47)",2019,"12,005"
+Congenital Malformations,2019,583
+COVID-19 (U07.1),2019,0
+Diabetes Mellitus (E10-E14),2019,"6,158"
+Enterocolitis due to Clostridium difficile (A04.7),2019,270
+"Essen Hypertension & Hypertensive Renal Dis (I10,I12,I15)",2019,"2,737"
+Female Pelvic Organs-Inflammatory Diseases (N70-N76),2019,9
+Heart Diseases,2019,"47,044"
+Hernia (K40-K46),2019,124
+Homicide,2019,"1,331"
+Human Immunodeficiency Virus (HIV) Disease (B20-B24),2019,692
+Hyperplasia of Prostate (N40),2019,34
+"In Situ, Benign, Uncertain and Unknown Behavior Neoplasms (D00-D48)",2019,"1,185"
+"Influenza & Pneumonia (J09-J11,J12-J18)",2019,"2,703"
+"Kidney Infections (N10-N12, N13.6, N15.1)",2019,38
+"Legal Intervention (Y35, Y89.0)",2019,31
+Malaria (B50-B54),2019,0
+Malignant Neoplasm (Cancer),2019,"45,562"
+Measles (B05),2019,0
+"Medical & Surgical Care Complications (Y40-Y84,Y88)",2019,421
+"Meningitis (G00,G03)",2019,31
+Meningococcal Infection (A39),2019,3
+"Nephritis, Nephrotic Syndrome, Nephrosis (N00-N07,N17-N19,N25-N27)",2019,"3,242"
+Nutritional Deficiencies (E40-E64),2019,604
+Other Causes of Death,2019,"32,377"
+Parkinsons Disease (G20-G21),2019,"2,666"
+Peptic Ulcer (K25-K28),2019,236
+Perinatal Period Conditions (P00-P96),2019,714
+"Pneumoconiosis & Chemical Effects (J60-J66,J68)",2019,45
+Pneumonitis Due To Solids & Liquids (J69),2019,"1,156"
+"Pregnancy, Childbirth and the Puerperium (O00-O99)",2019,70
+Salmonella Infections (A01-A02),2019,7
+Septicemia (A40-A41),2019,"2,527"
+"Shigellosis & Amebiasis (A03,A06)",2019,1
+Suicide,2019,"3,427"
+Syphilis (A50-A53),2019,2
+Tuberculosis (A16-A19),2019,34
+Unintentional Injury,2019,"13,213"
+Viral Hepatitis (B15-B19),2019,386
+"War Operations & Sequelae (Y36,Y89.1)",2019,3
+Whooping Cough (A37),2019,1
+Acute Bronchitis & Bronchiolitis (J20-J21),2020,12
+Alzheimers Disease (G30),2020,"7,264"
+Anemias (D50-D64),2020,453
+Aortic Aneurysm & Dissection (I71),2020,655
+Appendix Diseases (K35-K38),2020,28
+"Arthopod-Borne Viral Encephalitis (A83-A84,A85.2)",2020,0
+Atherosclerosis (I70),2020,366
+Cerebrovascular Diseases (I60-I69),2020,"15,356"
+Cholelithiasis & Other Gallbladder Disorders (K80-K82),2020,255
+"Chronic Liver Disease & Cirrhosis (K70,K73-K74)",2020,"3,738"
+"Chronic Lower Respiratory Disease (J40-J42,J43,J44,J45-J46,J47)",2020,"11,786"
+Congenital Malformations,2020,554
+COVID-19 (U07.1),2020,"19,157"
+Diabetes Mellitus (E10-E14),2020,"7,516"
+Enterocolitis due to Clostridium difficile (A04.7),2020,261
+"Essen Hypertension & Hypertensive Renal Dis (I10,I12,I15)",2020,"3,185"
+Female Pelvic Organs-Inflammatory Diseases (N70-N76),2020,9
+Heart Diseases,2020,"49,208"
+Hernia (K40-K46),2020,130
+Homicide,2020,"1,524"
+Human Immunodeficiency Virus (HIV) Disease (B20-B24),2020,672
+Hyperplasia of Prostate (N40),2020,36
+"In Situ, Benign, Uncertain and Unknown Behavior Neoplasms (D00-D48)",2020,"1,231"
+"Influenza & Pneumonia (J09-J11,J12-J18)",2020,"3,195"
+"Kidney Infections (N10-N12, N13.6, N15.1)",2020,38
+"Legal Intervention (Y35, Y89.0)",2020,60
+Malaria (B50-B54),2020,0
+Malignant Neoplasm (Cancer),2020,"45,723"
+Measles (B05),2020,0
+"Medical & Surgical Care Complications (Y40-Y84,Y88)",2020,410
+"Meningitis (G00,G03)",2020,26
+Meningococcal Infection (A39),2020,2
+"Nephritis, Nephrotic Syndrome, Nephrosis (N00-N07,N17-N19,N25-N27)",2020,"3,174"
+Nutritional Deficiencies (E40-E64),2020,793
+Other Causes of Death,2020,"35,317"
+Parkinsons Disease (G20-G21),2020,"3,137"
+Peptic Ulcer (K25-K28),2020,235
+Perinatal Period Conditions (P00-P96),2020,632
+"Pneumoconiosis & Chemical Effects (J60-J66,J68)",2020,30
+Pneumonitis Due To Solids & Liquids (J69),2020,"1,140"
+"Pregnancy, Childbirth and the Puerperium (O00-O99)",2020,28
+Salmonella Infections (A01-A02),2020,4
+Septicemia (A40-A41),2020,"2,625"
+"Shigellosis & Amebiasis (A03,A06)",2020,0
+Suicide,2020,"3,113"
+Syphilis (A50-A53),2020,4
+Tuberculosis (A16-A19),2020,32
+Unintentional Injury,2020,"15,987"
+Viral Hepatitis (B15-B19),2020,277
+"War Operations & Sequelae (Y36,Y89.1)",2020,3
+Whooping Cough (A37),2020,0
