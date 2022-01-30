@@ -7,7 +7,7 @@
 
 ### Background
 
-The Florida Suicide Peevention Coalition (FSPC) is a 501(c)(3) non-profit organization composed of loss survivors, crisis center staff, researchers, and concerned citizens. The FSPC is dedicated to increasing awareness and encouraging the prevention of suicide through legislative advocacy, statewide education, and collaboration.
+The Florida Suicide Prevention Coalition (FSPC) is a 501(c)(3) non-profit organization composed of loss survivors, crisis center staff, researchers, and concerned citizens. The FSPC is dedicated to increasing awareness and encouraging the prevention of suicide through legislative advocacy, statewide education, and collaboration.
 
 ## Purpose
 
@@ -91,7 +91,9 @@ What are the percentages per population within the state? (Does higher populatio
 
 Tableau Justin (1/10/22)- https://public.tableau.com/app/profile/justin.livingston/viz/FSPCWorkbook/FloridaSuicidebyCounty2011-2020
 
-Tableau Sofia (1/3/2022)- https://public.tableau.com/app/profile/sindie.castro/viz/FSPCWorkbook_16410653384460/SuicidebyDrugPoisining2011-2020
+Tableau School Survey: https://public.tableau.com/app/profile/sindie.castro/viz/SchoolSurveyRelatingtoSuicideinFlorida/Dashboard1
+
+Tableau Military: https://public.tableau.com/app/profile/sindie.castro/viz/FSPCWorkbook_16410653384460/MilitarySuicideDeathsinFloridaDashboard
 
 Google slides - https://docs.google.com/presentation/d/1kJ9BCC4LZloabozyE2AAeBoIWeOnyTyM1CW-Lh3o05c/edit?usp=sharing
 
