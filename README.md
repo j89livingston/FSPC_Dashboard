@@ -61,15 +61,7 @@ What is the suicide death count for veterans by gender?
 
 What are the suicide attempts for middle school students?
 
-What are the suicide attempts for middle school males?
-
-What are the suicide attempts for middle school females?
-
 What are the suicide attempts for high school students?
-
-What are the suicide attempts for high school males?
-
-What are the suicide attempts for high school females?
 
 What are the percentages or counts of psychiatric diagnoses of people who died by suicide?
 
