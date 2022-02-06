@@ -86,6 +86,8 @@ Tableau Justin (1/10/22)- https://public.tableau.com/app/profile/justin.livingst
 Tableau School Survey: https://public.tableau.com/app/profile/sindie.castro/viz/SchoolSurveyRelatingtoSuicideinFlorida/Dashboard1
 
 Tableau Military: https://public.tableau.com/app/profile/sindie.castro/viz/FSPCWorkbook_16410653384460/MilitarySuicideDeathsinFloridaDashboard
+  
+Tableau by firearms and other methods: https://public.tableau.com/app/profile/sindie.castro/viz/SuicideDeathsFloridabyMethod/SuicideDeathsbyFirearmOtherMeans
 
 Google slides - https://docs.google.com/presentation/d/1kJ9BCC4LZloabozyE2AAeBoIWeOnyTyM1CW-Lh3o05c/edit?usp=sharing
 
